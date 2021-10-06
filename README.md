@@ -43,7 +43,7 @@ Vic Jin;
 
 ## Images
 
-![NBA logo](NBA.png)
+![NBA logo](images/NBA.png)
 
 ## References
 
