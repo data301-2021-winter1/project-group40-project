@@ -43,9 +43,7 @@ Vic Jin;
 
 ## Images
 
-{You can use this area for any images you want to include}
-
-<img src ="images/test.png" width="100px">
+![NBA logo](NBA.png)
 
 ## References
 
