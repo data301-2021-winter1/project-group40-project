@@ -20,17 +20,20 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 The dataset is the box score and on/off plus-minus components of the NBA team RAPTOR in 2021 season.
 
-Consider the following questions to guide you in your exploration:
-
 Who: Which company/agency/organization provided this data?
+- fivethirtyeight provided this data.
 
 What: What is in your data?
+- The dataset is the box score and on/off plus-minus components of the NBA team RAPTOR in 2021 season.
 
 When: When was your data collected (for example, for which years)?
+- The data was collected on 2021 January.
 
 Why: What is the purpose of your dataset? Is it for transparency/accountability, public interest, fun, learning, etc…
+- The purpose of our dataset is for our interest and fun.
 
 How: How was your data collected? Was it a human collecting the data? Historical records digitized? Server logs?
+- Our data was collected by NBA player-tracking data system. It’s historical records digitized.
 
 ## Team Members
 
