@@ -8,9 +8,7 @@
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
 ## Describe your topic/interest in about 150-200 words
-
 -We are interested in basketball and watching NBA games.
--I'm interested in researching during the 2020-2021 season, which player achieved both offense and defense high scores; and which team or player gets the highest expectation from the public.
 - What the situation of players' positive and negative is.
 - Which player is more stable in performance.
 - Which players show stable performance in both regular seasons and playoff.
@@ -20,13 +18,13 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+The dataset is the box score and on/off plus-minus components of the NBA team RAPTOR in 2021 season.
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+Gordon Ho Yan Hung
+Patrick Feng
+Vic Jin
 
 ## Images
 
@@ -36,7 +34,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
-{Add your stuff here}
+the source is fivethirtyeight
+https://github.com/fivethirtyeight/data/tree/master/nba-raptor
 
 
 
