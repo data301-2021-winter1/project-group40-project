@@ -20,9 +20,9 @@ The dataset is the box score and on/off plus-minus components of the NBA team RA
 
 ## Team Members
 
-Gordon Ho Yan Hung
-Patrick Feng
-Vic Jin
+Gordon Ho Yan Hung;
+Patrick Feng;
+Vic Jin;
 
 ## Images
 
