@@ -9,7 +9,14 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+-We are interested in basketball and watching NBA games.
+-I'm interested in researching during the 2020-2021 season, which player achieved both offense and defense high scores; and which team or player gets the highest expectation from the public.
+- What the situation of players' positive and negative is.
+- Which player is more stable in performance.
+- Which players show stable performance in both regular seasons and playoff.
+-which players are the most valuable player on the court.
+-what factor can help the team perform well.
+-Which player can mostly impact the game.
 
 ## Describe your dataset in about 150-200 words
 
