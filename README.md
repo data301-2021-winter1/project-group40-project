@@ -7,13 +7,12 @@ NBA data project
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
 ## Describe your topic/interest in about 150-200 words
--We are interested in basketball and watching NBA games.
 - What the situation of players' positive and negative is.
 - Which player is more stable in performance.
 - Which players show stable performance in both regular seasons and playoff.
--which players are the most valuable player on the court.
--what factor can help the team perform well.
--Which player can mostly impact the game.
+- which players are the most valuable player on the court.
+- what factor can help the team perform well.
+- Which player can mostly impact the game.
 
 ## Describe your dataset in about 150-200 words
 
