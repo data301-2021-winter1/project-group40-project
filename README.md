@@ -13,7 +13,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 - Under Regular season, how the average of each group’s score reflects team members performance.
 - Under Regular season, what the distribution of all team members average onoff_offense is.
 
-- I'm interested in researching during the 2020-2021 season, which player achieved both offense and defense high scores; and which team or player gets the highest expectation from the public.
+- Do teams that do well in offense also do well in defense?
+- Which teams receive highest expectation?
+- Does the expectation ranking match the team's Win Above Replacement score?
 - What the situation of players' positive and negative is.
 - Which player is more stable in performance.
 - Which players show stable performance in both regular seasons and playoff.
