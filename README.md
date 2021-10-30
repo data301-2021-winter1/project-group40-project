@@ -8,10 +8,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 - We are interested in basketball and watching NBA games．
-- Ｕｎｄｅｒ　Ｒｅｇｕｌａｒ　ｓｅａｓｏｎ，　ｔｈｅ　ｏｖｅｒａｌｌ　ｄｉｓｔｒｉｂｕｔｉｏｎ　ｏｆ　ｒａｐｔｏｒ＿ｏｎｏｆｆ＿ｏｆｆｅｎｓｅ．
-- Ｕｎｄｅｒ　Ｒｅｇｕｌａｒ　ｓｅａｓｏｎ，　ｔｈｅ　ｄｉｓｔｒｉｂｕｔｉｏｎ　ｆｏｒ　ｒａｐｔｏｒ＿ｏｎｏｆｆ＿ｏｆｆｅｎｓｅ　ｉｎ　ｄｉｆｆｅｒｅｎｔ　ｒａｎｇｅ．
-- Ｕｎｄｅｒ　Ｒｅｇｕｌａｒ　ｓｅａｓｏｎ，　ｈｏｗ　ｔｈｅ　ａｖｅｒａｇｅ　ｏｆ　ｅａｃｈ　ｇｒｏｕｐ＇ｓ　ｓｃｏｒｅ　ｒｅｆｌｅｃｔ　ｔｅａｍ　ｍｅｍｂｅｒｓ　ｐｅｒｆｏｒｍａｎｃｅ．
-- Ｕｎｄｅｒ　Ｒｅｇｕｌａｒ　ｓｅａｓｏｎ，　ｗｈａｔ　ｔｈｅ　ｄｉｓｔｒｉｂｕｔｉｏｎ　ｏｆ　ａｌｌ　ｔｅａｍ　ｍｅｍｂｅｒｓ　ａｖｅｒａｇｅ　ｏｎｏｆｆ＿ｏｆｆｅｎｓｅ　ｉｓ．
+- Under Regular season, what the overall distribution of raptor_onoff_offense is.
+- Under Regular season, what the distribution of raptor_onoff_offense in difference ranges is.
+- Under Regular season, how the average of each group’s score reflects team members performance.
+- Under Regular season, what the distribution of all team members average onoff_offense is.
+
 - I'm interested in researching during the 2020-2021 season, which player achieved both offense and defense high scores; and which team or player gets the highest expectation from the public.
 - What the situation of players' positive and negative is.
 - Which player is more stable in performance.
