@@ -23,6 +23,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 - what factor can help the team perform well.
 - Which player can mostly impact the game.
 
+
+-What kind of defensive ability can be defined as an elite defender?
+-Which team has the most powerful overall average defensive ability
+-Which team has the most competitive ability in the league?
+
 ## Describe your dataset in about 150-200 words
 
 The dataset is the box score and on/off plus-minus components of the NBA team RAPTOR in 2021 season.
