@@ -7,7 +7,11 @@ NBA data project
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
 ## Describe your topic/interest in about 150-200 words
-- We are interested in basketball and watching NBA games.
+- We are interested in basketball and watching NBA games．
+- Ｕｎｄｅｒ　Ｒｅｇｕｌａｒ　ｓｅａｓｏｎ，　ｔｈｅ　ｏｖｅｒａｌｌ　ｄｉｓｔｒｉｂｕｔｉｏｎ　ｏｆ　ｒａｐｔｏｒ＿ｏｎｏｆｆ＿ｏｆｆｅｎｓｅ．
+- Ｕｎｄｅｒ　Ｒｅｇｕｌａｒ　ｓｅａｓｏｎ，　ｔｈｅ　ｄｉｓｔｒｉｂｕｔｉｏｎ　ｆｏｒ　ｒａｐｔｏｒ＿ｏｎｏｆｆ＿ｏｆｆｅｎｓｅ　ｉｎ　ｄｉｆｆｅｒｅｎｔ　ｒａｎｇｅ．
+- Ｕｎｄｅｒ　Ｒｅｇｕｌａｒ　ｓｅａｓｏｎ，　ｈｏｗ　ｔｈｅ　ａｖｅｒａｇｅ　ｏｆ　ｅａｃｈ　ｇｒｏｕｐ＇ｓ　ｓｃｏｒｅ　ｒｅｆｌｅｃｔ　ｔｅａｍ　ｍｅｍｂｅｒｓ　ｐｅｒｆｏｒｍａｎｃｅ．
+- Ｕｎｄｅｒ　Ｒｅｇｕｌａｒ　ｓｅａｓｏｎ，　ｗｈａｔ　ｔｈｅ　ｄｉｓｔｒｉｂｕｔｉｏｎ　ｏｆ　ａｌｌ　ｔｅａｍ　ｍｅｍｂｅｒｓ　ａｖｅｒａｇｅ　ｏｎｏｆｆ＿ｏｆｆｅｎｓｅ　ｉｓ．
 - I'm interested in researching during the 2020-2021 season, which player achieved both offense and defense high scores; and which team or player gets the highest expectation from the public.
 - What the situation of players' positive and negative is.
 - Which player is more stable in performance.
