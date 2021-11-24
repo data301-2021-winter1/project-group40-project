@@ -9,4 +9,4 @@ def load_and_process(csv_file):
         .sort_values("player_name")
         .reset_index(drop=True)
         )    
-    return df1, df1.shape
+    return df1
