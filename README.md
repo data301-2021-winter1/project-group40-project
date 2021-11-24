@@ -7,7 +7,8 @@ NBA data project
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
 ## Describe your topic/interest in about 150-200 words
-- We are interested in basketball and watching NBA games．
+We are interested in basketball and watching NBA games．
+### Gordon:
 - Under Regular season, what the overall distribution of raptor_onoff_offense is.
 - Under Regular season, what the distribution of raptor_onoff_offense in difference ranges is.
 - Under Regular season, how the average of each group’s score reflects team members performance.
@@ -16,7 +17,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 - Do teams that do well in offense also do well in defense?
 - Does the prediction match the team players' real capability score?
 - Which team's players have better performance in playoff season than expectation?
-
+### Patrick:
 - What kind of defensive ability can be defined as an elite defender?
 - Which team has the most powerful overall average defensive ability？
 - Which team has the most competitive ability in the league?
