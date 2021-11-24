@@ -12,10 +12,10 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 - Under Regular season, what the distribution of raptor_onoff_offense in difference ranges is.
 - Under Regular season, how the average of each group’s score reflects team members performance.
 - Under Regular season, what the distribution of all team members average onoff_offense is.
-
+### Vic:
 - Do teams that do well in offense also do well in defense?
-- Which teams receive highest expectation?
-- Does the expectation ranking match the team's Win Above Replacement score?
+- Does the prediction match the team players' real capability score?
+- Which team's players have better performance in playoff season than expectation?
 
 - What kind of defensive ability can be defined as an elite defender?
 - Which team has the most powerful overall average defensive ability？
