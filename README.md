@@ -9,10 +9,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Describe your topic/interest in about 150-200 words
 We are interested in basketball and watching NBA games．
 ### Gordon:
--What kind of defensive ability can be defined as an elite defender?
--Which team has the most powerful overall average defensive ability
--Which team has the most competitive ability in the league?
-
+- What kind of defensive ability can be defined as an elite defender?
+- Which team has the most powerful overall average defensive ability
+- Which team has the most competitive ability in the league?
 ### Vic:
 - Do teams that do well in offense also do well in defense?
 - Does the prediction match the team players' real capability score?
