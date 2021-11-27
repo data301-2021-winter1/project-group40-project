@@ -17,9 +17,9 @@ We are interested in basketball and watching NBA games．
 - Does the prediction match the team players' real capability score?
 - Which team's players have better performance in playoff season than expectation?
 ### Patrick:
-- What kind of defensive ability can be defined as an elite defender?
-- Which team has the most powerful overall average defensive ability？
-- Which team has the most competitive ability in the league?
+－Under Regular season, what the distributions of raptor_onoff_offense are for all teams.
+－The differences between distributions of average onoff_offense of each team in two seasons.
+－Under Regular season, what each team player's onoff_offense score is in MIA.
 
 ## Describe your dataset in about 150-200 words
 
